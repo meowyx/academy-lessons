@@ -8,6 +8,10 @@ const config: DocsThemeConfig = {
   },
 
   docsRepositoryBase: 'https://github.com/meowyx/academy-lessons',
+
+  nextThemes: {
+    defaultTheme: "dark",
+  },
  
 }
 
